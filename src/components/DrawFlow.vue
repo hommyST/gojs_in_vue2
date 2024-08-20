@@ -135,7 +135,7 @@ export default {
       this.dragging.over = target
     },
 
-    endDrag(ev) {
+    endDrag() {
       if (!this.dragging.over.closest('.parent-drawflow')) {
         this.dragging.el = null
         this.dragging.over = null

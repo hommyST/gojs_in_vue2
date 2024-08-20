@@ -1,0 +1,8 @@
+<svg width="1366" height="768" version="1.1" viewBox="0 0 1366 768" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g stroke-linejoin="round" stroke-width="3">
+  <rect x="51.499" y="307.7" width="269.08" height="126.17" fill="none" stroke="#ff0"/>
+  <rect x="636.01" y="251.06" width="366.93" height="118.45" fill="none" stroke="#ff0"/>
+  <path id="path2" d="m319.29 381.09s59.223-73.385 139.05-47.636c79.823 25.749 178.96-32.187 178.96-32.187" fill="none" stroke="#f00" stroke-linejoin="round" stroke-width="3"/>
+  <text fill="#ffffff" font-family="Broadway" font-size="42.667px" stroke="#ffffff" xml:space="preserve"><textPath xlink:href="#path2"><tspan fill="#ffffff" font-family="Arial" stroke="#ffffff">LG</tspan></textPath></text>
+ </g>
+</svg>
